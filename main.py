@@ -26,6 +26,7 @@ def merge(left: list, right: list) -> list:
         j += 1
     return result
 
+
 array = [int(a) for a in input().split()]
 
 
